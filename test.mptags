@@ -1,0 +1,70 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADDRWIDTH::ONE_BYTE	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	55;"	d	line:55
+ALTI2C1_ON	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	67;"	v	line:67
+FNOSC_FRC	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	58;"	v	line:58
+FWDTEN_OFF	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	65;"	v	line:65
+I2CEMEM_DATA	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	69;"	t	line:69
+I2CEMEM_DRV	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	77;"	t	line:77
+I2CEMEMdrv	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	86;"	p	line:86	signature:(I2CEMEM_DRV *)
+I2CEMEMdrv	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	105;"	f	line:105	signature:(I2CEMEM_DRV *i2cMem)
+I2CEMEMinit	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	85;"	p	line:85	signature:(I2CEMEM_DRV *)
+I2CEMEMinit	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	78;"	f	line:78	signature:(I2CEMEM_DRV *i2cMem)
+I2CSEMEM_DRV_DEFAULTS::{0,	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	82;"	d	line:82
+I2C_ERR::0xFFFF	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	61;"	d	line:61
+I2C_IDLE::0	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	58;"	d	line:58
+I2C_READ::2	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	60;"	d	line:60
+I2C_WRITE::1	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	59;"	d	line:59
+MAX_RETRY::3	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	50;"	d	line:50
+ONE_BYTE::1	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	51;"	d	line:51
+POSCMD_XT	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	59;"	v	line:59
+TWO_BYTE::2	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	52;"	d	line:52
+_AddressError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	58;"	p	line:58	file:	signature:(void)
+_AddressError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	83;"	f	line:83	signature:(void)
+_AltAddressError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	125;"	f	line:125	signature:(void)
+_AltAddressError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	64;"	p	line:64	file:	signature:(void)
+_AltDMACError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	143;"	f	line:143	signature:(void)
+_AltDMACError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	67;"	p	line:67	file:	signature:(void)
+_AltMathError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	137;"	f	line:137	signature:(void)
+_AltMathError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	66;"	p	line:66	file:	signature:(void)
+_AltOscillatorFail	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	119;"	f	line:119	signature:(void)
+_AltOscillatorFail	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	63;"	p	line:63	file:	signature:(void)
+_AltStackError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	131;"	f	line:131	signature:(void)
+_AltStackError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	65;"	p	line:65	file:	signature:(void)
+_DMACError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	100;"	f	line:100	signature:(void)
+_DMACError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	61;"	p	line:61	file:	signature:(void)
+_MI2C1Interrupt	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	57;"	f	line:57	signature:(void)
+_MathError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	60;"	p	line:60	file:	signature:(void)
+_MathError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	94;"	f	line:94	signature:(void)
+_OscillatorFail	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	57;"	p	line:57	file:	signature:(void)
+_OscillatorFail	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	77;"	f	line:77	signature:(void)
+_SI2C1Interrupt	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	67;"	f	line:67	signature:(void)
+_StackError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	59;"	p	line:59	file:	signature:(void)
+_StackError	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\traps.c	88;"	f	line:88	signature:(void)
+__I2CEMEM_H__	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	47;"	d	line:47
+addr	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	67;"	m	line:67
+buff	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	65;"	m	line:65
+cmd	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	73;"	m	line:73
+cntr	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	108;"	l	line:108	file:
+csel	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	68;"	m	line:68
+enable	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	76;"	v	line:76
+i	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	80;"	l	line:80
+i2cmem	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	71;"	v	line:71
+init	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	75;"	m	line:75
+jDone	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	51;"	v	line:51
+main	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	78;"	f	line:78	signature:(void)
+n	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	66;"	m	line:66
+oData	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	74;"	m	line:74
+rBuff	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	75;"	v	line:75
+rData	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	73;"	v	line:73
+rtrycntr	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	108;"	l	line:108	file:
+state	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\i2cEmem.c	108;"	l	line:108	file:
+tick	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\h\i2cEmem.h	76;"	m	line:76
+wBuff	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	75;"	v	line:75
+wData	C:\@code\tbaa_examples\CE119_I2C_EEPROM_tbaa\src\main.c	72;"	v	line:72

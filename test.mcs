@@ -1,0 +1,163 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\main.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\traps.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\generateAndProcessSamples.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\i2sDrv.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\uartDrv.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\spiDrv.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\asm.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File007]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\cosLUT.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\CS4272config.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\src\muxControl.o
+Folder=Intermediary
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\hex\test.cof
+Folder=Output
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=__ICD2RAM=1 -Map="$(TARGETBASE).map" --report-mem -o"$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File011]
+Location=F:\Documents\Michael M Sandstedt\My Documents\Dropbox\Senior Design Project\Software\Firmware\hex\test.hex
+Folder=Output
+DeviceName=dsPIC33EP512MC806
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|hex||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\h||$(LIBDIR)|..\lib||$(LKRDIR)||
+SOLK=<src>|src\main.c|src\traps.c|src\generateAndProcessSamples.c|src\i2sDrv.c|src\uartDrv.c|src\spiDrv.c|src\asm.s|src\cosLUT.c|src\CS4272config.c|src\muxControl.c||<obj>||<lib>|C:\Program Files\Microchip\MPLAB C30\lib\libq-elf.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-coff.a|C:\Program Files\Microchip\MPLAB C30\lib\libq-dsp-elf.a||<lkr>||
+SuiteArgsString=
+ToolArgsString=--defsym=__ICD2RAM=1 -Map="$(TARGETBASE).map" --report-mem -o"$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files\Microchip\MPLAB C30\bin\pic30-ld.exe
